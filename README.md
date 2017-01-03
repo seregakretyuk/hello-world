@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hy, humans!
+
+Hello everybody! My name is Sergey! I from Arkhangelsk
+I'm programmist. Let's do it!
